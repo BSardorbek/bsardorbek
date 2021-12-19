@@ -4,4 +4,4 @@
 # 💻 &nbsp;About Me
 
 
- 💡 &nbsp; DS and Algorithms, Systems Design, and Design Patterns. &nbsp; 
+ 💡 &nbsp;I'm studying now DS and Algorithms, Systems Design and Design Patterns. &nbsp; 
